@@ -1,6 +1,7 @@
 🏆 Federation Tournament Web Application
 
-![CAF image](https://github.com/user-attachments/assets/a41265d9-c33e-4b2d-9e29-2e63f6574278)
+<img src="https://github.com/user-attachments/assets/a41265d9-c33e-4b2d-9e29-2e63f6574278" width="500"/>
+
 
 
 
